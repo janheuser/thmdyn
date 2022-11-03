@@ -25,8 +25,8 @@ pyhdf
 
 Auxilliary data required include:
 
-AMSR-E and AMSR2 brightness temperatures: https://doi.org/10.5067/AMSR-E/AE_SI25.003; https://doi.org/10.5067/TRUIAL3WPAUP
-AMSR-E and AMSR2 SIC: https://doi.org/10.5067/AMSR-E/AE_SI25.003; https://doi.org/10.5067/TRUIAL3WPAUP
-AWI CS2SMOS: https://www.meereisportal.de
-Sea ice motion vectors: https://doi.org/10.5067/INAWUWO7QH7B
-MOSAiC drift track:  https://doi.pangaea.de/10.1594/PANGAEA.937193
+AMSR-E and AMSR2 brightness temperatures: https://doi.org/10.5067/AMSR-E/AE_SI25.003; https://doi.org/10.5067/TRUIAL3WPAUP  
+AMSR-E and AMSR2 SIC: https://doi.org/10.5067/AMSR-E/AE_SI25.003; https://doi.org/10.5067/TRUIAL3WPAUP  
+AWI CS2SMOS: https://www.meereisportal.de  
+Sea ice motion vectors: https://doi.org/10.5067/INAWUWO7QH7B  
+MOSAiC drift track:  https://doi.pangaea.de/10.1594/PANGAEA.937193  
