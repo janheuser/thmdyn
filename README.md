@@ -10,18 +10,18 @@ https://doi.org/10.5281/zenodo.7278280
 
 Scripts utilize Python 3.8.3 and Jupyter. Python packages required include:
 
-numpy
-pandas
-glob
-datetime
-scipy
-xarray
-pyproj
-matplotlib
-cartopy
-cmocean
-h5py
-pyhdf
+numpy  
+pandas  
+glob  
+datetime  
+scipy  
+xarray  
+pyproj  
+matplotlib  
+cartopy  
+cmocean  
+h5py  
+pyhdf  
 
 Auxilliary data required include:
 
