@@ -6,7 +6,7 @@ Anheuser, J., Liu, Y., and Key, J.: A climatology of thermodynamic vs. dynamic A
 
 Data can be found at:
 
-https://doi.org/10.5281/zenodo.7733722
+https://doi.org/10.5281/zenodo.7987917
 
 Scripts utilize Python 3.8.3 and Jupyter. Python packages required include:
 
